@@ -15,8 +15,8 @@ Tutorial information for Open Music eXchange project supporters, architects, dev
 # Potential topics
 * Top level functional decomposition & interfaces
 * APIs:
-** API design principles
-** Individual API definitions
+  * API design principles
+  * Individual API definitions
 * Using blockchains
 * Interworking with non-RAIDAR data repositories
 * UI design principles
