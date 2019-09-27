@@ -11,6 +11,7 @@ Tutorial information for Open Music eXchange project supporters, architects, dev
 * Multi-lingual and other internationalization aspects
 * Use of IPFS
 * Timestamp requirements and methods
+* Dictionary of terms & acronyms
 
 # Potential topics
 * Top level functional decomposition & interfaces
